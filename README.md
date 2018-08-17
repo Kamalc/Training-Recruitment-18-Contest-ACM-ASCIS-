@@ -5,4 +5,5 @@ Training Recruitment'18 Contest Solution<br />
 [B. Message](https://ideone.com/hs6XCD)<br />
 [C. Calculations](https://ideone.com/IZjs43)<br />
 [D. Was it 5?](https://ideone.com/uUzDPR)<br />
+[E. ZeroHunter](https://ideone.com/Nd36c1)<br />
 [F - Colors](https://ideone.com/eUkNQw)<br />
